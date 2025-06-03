@@ -1,4 +1,4 @@
-#  Delivery System - Odysseys
+#  Delivery Odysseys
 A dynamic path optimization system for quick commerce deliveries (Swiggy, Zepto, Blinkit) with real-time visualization.
 
 ## 📌 Features
